@@ -1,0 +1,17 @@
+#menu
+{
+    display: flex;
+    justify-content: center;
+    margin-top:10px;
+   
+}
+.item-menu
+{
+    font-size:28px;
+    margin-left: 60px;
+    margin-right:60px;
+    margin-top: 4px;
+    text-decoration: none;
+    font-family:cursive;
+    color: darkslategray;
+}
