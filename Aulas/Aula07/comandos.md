@@ -6,5 +6,5 @@
     -express
 
 ## Comandos npm usados 
-    -npm init -y
-    -npm install express
+    -npm init -y | instala uma biblioteca/dependencias
+    -npm install express | inicializa package.json
