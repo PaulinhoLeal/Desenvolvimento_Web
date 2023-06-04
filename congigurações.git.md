@@ -17,3 +17,11 @@
     - git checkout -b nome-da-branch | cria uma branch e troca pra branch criada
     - git branch -d | apaga uma branch
     - git pull | Atualiza repositorio local
+
+# TERMINAL 
+    rm - remove um arquivo
+    rm -rf remove uma pasta
+    Ctrl+c [reinicia o terminal]
+    cls [limpa o terminal]
+    cd [muda de pasta]
+    
