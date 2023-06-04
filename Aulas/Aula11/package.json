@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "ts-tsc-script":"tsc",
+    "tsc-init":"tsc --init",
+    "tsc-watch":"tsc --watch"
+  },
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
