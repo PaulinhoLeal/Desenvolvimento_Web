@@ -23,7 +23,7 @@ app.post('/adicionar-animais', async (req, res) => {
     let animal = {
         nome, raca, idade
     }
-
+    
     try {
         await Animal.create(animal)
         return res.status(201).json({ message: 'produto cadastrado com sucesso' })
